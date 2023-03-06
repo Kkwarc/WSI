@@ -1,0 +1,4 @@
+Chair,None,0.8
+Sport,None,0.02
+Back,2,Chair,Sport,0.9,0.2,0.9,0.01
+Ache,1,Back,0.7,0.1
